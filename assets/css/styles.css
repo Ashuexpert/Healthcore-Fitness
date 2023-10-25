@@ -703,6 +703,7 @@ img {
 .pricing__item_program{
   margin-top: .5rem;
  
+  font-weight: 400;
 }
 
 .pricing__item i {
